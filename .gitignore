@@ -6,3 +6,4 @@ package-lock.json
 Gemfile.lock
 /#index.md#
 /.#index.md
+/_includes/.#header-start.html
