@@ -1,5 +1,5 @@
 ---
 layout: start
-title:
+title: The Granule Project
 ---
 
