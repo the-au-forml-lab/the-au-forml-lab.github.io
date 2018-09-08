@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container">
     <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">
-      <a class="nav-link" href="{{ "/" | relative_url }}/people.html">People</a>
+      {-% include menu.html -%}
     </a>
 
     {%- assign page_paths = site.header_pages -%}
@@ -15,7 +15,7 @@
           {%- assign my_page = site.pages | where: "path", path | first -%}          
             {%- if my_page.title -%}
               <li class="nav-item">
-                {%- include menu.html -%}}
+              <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
              </li>
             {%- endif -%}          
         {% endfor -%}
