@@ -14,7 +14,7 @@
             {%- if my_page.title -%}
               <li class="nav-item">
                 <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-                <a class="nav-link" href="{{ my_page.url | relative_url }}/people.html">People</a>
+                {{ include menu.html }}
              </li>
             {%- endif -%}          
         {% endfor -%}
