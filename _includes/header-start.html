@@ -13,11 +13,10 @@
               <li class="nav-item">
                 <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>                
              </li>
-            {%- endif -%}            
+              {%- endif -%}
+              {%- include menu.html -%}
         {%- endfor -%}
-        <li class="nav-item">
-          {%- include menu.html -%}
-        </li>
+        <li class="nav-item"></li>
       </ul>
     </div>
   </div>
