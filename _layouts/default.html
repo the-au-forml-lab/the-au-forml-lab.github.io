@@ -5,13 +5,11 @@
 
   <body>
 
-    {%-
-    if page.layout == "start"
-      include header-start.html
-    else
-      include header-page.html
-    endif    
-    -%}
+    {%- if page.layout == "start" -%}
+      {{ include header-start.html }}
+    {%- if page.layout == "start" -%}
+      {{ include header-page.html }}
+    {%- endif -%}
 
     <div class="py-5">
       <div class="container page-content">
