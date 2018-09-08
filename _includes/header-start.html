@@ -15,7 +15,7 @@
           {%- assign my_page = site.pages | where: "path", path | first -%}          
             {%- if my_page.title -%}
               <li class="nav-item">
-                {{ include menu.html }}
+                {%- include menu.html -%}}
              </li>
             {%- endif -%}          
         {% endfor -%}
