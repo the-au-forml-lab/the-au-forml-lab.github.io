@@ -1,5 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container">
+    {%- include menu.html -%}
     {%- assign page_paths = site.header_pages -%}
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -13,8 +14,7 @@
               <li class="nav-item">
                 <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>                
              </li>
-              {%- endif -%}
-              {%- include menu.html -%}
+              {%- endif -%}              
         {%- endfor -%}
         <li class="nav-item"></li>
       </ul>
