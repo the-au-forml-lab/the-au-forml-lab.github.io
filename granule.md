@@ -44,7 +44,8 @@ first parameter is therefore used non-linearly, exactly twice, as captured by th
 Another modality available in Granule is indexed by a two-point security lattice with levels: `Lo` and `Hi`. For example:
 
 ```
-secret : Int |Private| secret = |42|                   -- specified as private
+secret : Int |Private|
+secret = |42|                   -- specified as private
 
 dub : forall (l : Level) . Int |l| -> Int |l|     -- at any level
 dub |x| = |(x + x)|                               -- ...double an int
