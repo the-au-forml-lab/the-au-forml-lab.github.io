@@ -9,7 +9,8 @@ The Granule Language
 
 Many modern programs are resource sensitive, that is, the amount of resources (e.g., energy, bandwidth, time, memory), and their rate of consumption, must be carefully managed. Furthermore, many programs handle sensitive resources, such as passwords, location data, photos, and banking information. Ensuring that private data is not inadvertently leaked is as important as the functional input-output behaviour of a program.
 
-Various type-based solutions have been provided for reasoning about and controlling resources. A general class of program behaviours called coeﬀects has been proposed as a uniﬁed framework for capturing diﬀerent kinds of resource analysis in a single type theory [[Petricek et al.](http://tomasp.net/academic/papers/structural/coeffects-icfp.pdf), [Petricek et al.](http://tomasp.net/academic/papers/coeffects/coeffects-icalp.pdf), [Brunel et al.](https://lipn.univ-paris13.fr/~mazza/papers/CoreQuantCoeff.pdf), [Gaboardi et al.](https://www.cs.kent.ac.uk/people/staff/dao7/publ/combining-effects-and-coeffects-icfp16.pdf), [Ghica et al.](https://www.cs.bham.ac.uk/~drg/papers/esop14.pdf), [Breuvart et al.](https://lipn.univ-paris13.fr/~breuvart/articles/boundedRel.pdf)]. Recently it has been shown how coeﬀect types can be integrated with eﬀect types for resource reasoning with eﬀects [[Gaboardi et al.](https://www.cs.kent.ac.uk/people/staff/dao7/publ/combining-effects-and-coeffects-icfp16.pdf)].
+Various type-based solutions have been provided for reasoning about and controlling resources. A general class of program behaviours called coeﬀects has been proposed as a uniﬁed framework for capturing different
+kinds of resource analysis in a single type theory [[Petricek et al.](http://tomasp.net/academic/papers/structural/coeffects-icfp.pdf), [Petricek et al.](http://tomasp.net/academic/papers/coeffects/coeffects-icalp.pdf), [Brunel et al.](https://lipn.univ-paris13.fr/~mazza/papers/CoreQuantCoeff.pdf), [Gaboardi et al.](https://www.cs.kent.ac.uk/people/staff/dao7/publ/combining-effects-and-coeffects-icfp16.pdf), [Ghica et al.](https://www.cs.bham.ac.uk/~drg/papers/esop14.pdf), [Breuvart et al.](https://lipn.univ-paris13.fr/~breuvart/articles/boundedRel.pdf)]. Recently it has been shown how coeﬀect types can be integrated with eﬀect types for resource reasoning with eﬀects [[Gaboardi et al.](https://www.cs.kent.ac.uk/people/staff/dao7/publ/combining-effects-and-coeffects-icfp16.pdf)].
 
 To gain experience with such type systems for real-world programming tasks, and as a vehicle for further research, we are developing **Granule**, a functional programming language based on the linear λ-calculus augmented with graded modal types, inspired by the coeffect-effect calculus of [Gaboardi et al.](https://www.cs.kent.ac.uk/people/staff/dao7/publ/combining-effects-and-coeffects-icfp16.pdf).
 
@@ -21,12 +22,21 @@ The goal with Granule is to support arbitrary, user-customisable graded modaliti
 
 **Example 1:** Reuse Bounds
 
+The following is a valid Granule program:
+
 ```
 dup : forall (a : Type) . a |2| -> (a, a)
 dup |x| = (x, x)
 ```
 
-The following is a valid Granule program:
+This specifies the function `dup` which takes a value and turns it into a pair by duplicating it. The
+first parameter is therefore used non-linearly. If we were to try to give this the type `a -> (a, a)` then
+the type checker would complain of a linearity violation. Instead, since we are using the parameter
+non-linearly, the type above describes this non-linear use via the resource bound `2` attached via
+a graded modal type. The type `a |n|` can be read as a boxed value of type `a` which, when unboxed,
+can be used `n` times. This type is equivalent to $$!_n \text{a}$$ in [Girard et al.’s](https://www.sciencedirect.com/science/article/pii/030439759290386T) notation. The pattern match `|x|` discharges the incoming modality and binds `x` as a non-linear variable.
+
+Let's see a bit more of Granule, where the grading is made polymorphic:
 
 ```
 twice : forall (a : Type, b : Type, c : Nat) . (a |c| -> b) |2| -> (b, b) |(2 * c)| -> Int
@@ -36,8 +46,7 @@ main : ((Int, Int), (Int, Int))
 main = twice |dup| |1|
 ```
 
-The first definition specifies a function `dup` which takes a value and turns it into a pair. The
-first parameter is therefore used non-linearly, exactly twice, as captured by the resource bound `2` indexing the modality. The type `a |n|` can be read as $$!_n \text{a}$$ in [Girard et al.’s](https://www.sciencedirect.com/science/article/pii/030439759290386T) notation. The pattern match `|x|` discharges the incoming modality and binds `x` as a non-linear variable. Looking at the type signature for twice, we can deduce that it is a higher-order function: its ﬁrst parameter is a unary function whose parameter is used non-linearly exactly `c` times and which returns a `b`. The second parameter of `twice` is used non-linearly exactly `2 * c` times, since `g` uses `c` copies of its first parameter and is applied twice. This example shows Granule's support of coeffect polymorphism.
+ Looking at the type signature for twice, we can deduce that it is a higher-order function: its ﬁrst parameter is a unary function whose parameter is used non-linearly exactly `c` times and which returns a `b`. The second parameter of `twice` is used non-linearly exactly `2 * c` times, since `g` uses `c` copies of its first parameter and is applied twice. This example shows Granule's support of coeffect polymorphism.
 
 **Example 2:** Security Levels
 
