@@ -7,6 +7,13 @@ title: Language
 The Granule Language
 --------------------
 
+
+#### Installation
+
+Granule can be downloaded from [Github](https://github.com/granule-project/granule) and built and installed via [stack](https://docs.haskellstack.org/en/stable/README/).  Please see the [README](https://github.com/granule-project/granule/blob/master/README.md) for further instructions.
+
+#### Why Granule?
+
 Many modern programs are resource sensitive, that is, the amount of resources (e.g., energy, bandwidth, time, memory), and their rate of consumption, must be carefully managed. Furthermore, many programs handle sensitive resources, such as passwords, location data, photos, and banking information. Ensuring that private data is not inadvertently leaked is as important as the functional input-output behaviour of a program.
 
 Various type-based solutions have been provided for reasoning about and controlling resources. A general class of program behaviours called coeﬀects has been proposed as a uniﬁed framework for capturing different
@@ -112,10 +119,6 @@ The following shows both reuse bound coeffects and I/O effects coming together, 
 doTwice : (Int -> Int <[R]>) |2| -> Int |2| -> Int <[R, R]>
 doTwice |f| |x| = let a <- f x in let b <- f x in pure (a + b)
 ```
-
-#### Installation
-
-Granule can be downloaded from [Github](https://github.com/granule-project/granule) and built and installed via [stack](https://docs.haskellstack.org/en/stable/README/).  Please see the [README](https://github.com/granule-project/granule/blob/master/README.md) for further instructions.
 
 
 Footnote: This page was adopted from this abstract [Orchard and Liepelt](http://www.cs.ox.ac.uk/conferences/fscd2017/preproceedings_unprotected/TLLA_Orchard.pdf).
