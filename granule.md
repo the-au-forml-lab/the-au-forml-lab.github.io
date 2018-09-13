@@ -46,7 +46,25 @@ main : ((Int, Int), (Int, Int))
 main = twice |dup| |1|
 ```
 
- Looking at the type signature for twice, we can deduce that it is a higher-order function: its ﬁrst parameter is a unary function whose parameter is used non-linearly exactly `c` times and which returns a `b`. The second parameter of `twice` is used non-linearly exactly `2 * c` times, since `g` uses `c` copies of its first parameter and is applied twice. This example shows Granule's support of coeffect polymorphism.
+Looking at the type signature for twice, we can deduce that it is a higher-order function: its ﬁrst parameter is a unary function whose parameter is used non-linearly exactly `c` times and which returns a `b`. The second parameter of `twice` is used non-linearly exactly `2 * c` times, since `g` uses `c` copies of its first parameter and is applied twice. This example shows Granule's support of coeffect polymorphism.
+
+So far these examples have been a little trivial. Let's see something more interesting that mixes
+the linearity + graded modality idea with indexed types. Granule provides indexed types such as
+sized-indexed vectors. This enables the following definition for `map` on vectors:
+
+```
+map : forall (a : Type, b : Type, n : Nat=) . (a -> b) |n| -> Vec n a -> Vec n b
+map |f| ys =
+  case ys of
+    Nil -> Nil;
+    (Cons x xs) -> Cons (f x) (map |f| xs)
+```
+
+The type paraemter `n` is of type `Nat=` which is the type of natural numbers which are discretely ordered.
+This means that the type `(a -> b) |n|` is the type of a function that must be used exactly `n` times.
+Thus, this type says that we must use the parameter function exactly the number of times as the length
+of the incoming vector. This significantly cuts down the number of possible implementation of `map`
+to only the one above, or with permutations of constant-sized sublists whilst applying the map.
 
 **Example 2:** Security Levels
 
