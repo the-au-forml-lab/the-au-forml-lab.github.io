@@ -13,11 +13,9 @@ Members of the Project
 
 #### Students
 
-- Vilem-Benjamin Liepelt, PhD student, University of Kent, [website](https://github.com/vimuel)
+- Vilem-Benjamin Liepelt, PhD student, University of Kent, [website](https://github.com/buggymcbugfix)
 - Preston Keel, Undergraduate Research Assistant, Augusta University, [website](https://github.com/pkeel)
 
 #### Collaborators
 
 - Nathan Bedell, PhD Student, Tulane University
-
-
