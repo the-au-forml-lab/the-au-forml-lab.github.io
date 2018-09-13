@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: The Language
+title: Language
 ---
 
 The Granule Language
