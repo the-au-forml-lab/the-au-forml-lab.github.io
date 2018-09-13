@@ -29,7 +29,7 @@ dup |x| = (x, x)
 The following is a valid Granule program:
 
 ```
-twice : forall (a : Type, b : Type, c : Nat) . |(|a| c -> b)| 2 -> |(b, b)| (2 * c) -> Int
+twice : forall (a : Type, b : Type, c : Nat) . (a |c| -> b) |2| -> (b, b) |(2 * c)| -> Int
 twice |g| |x| = (g |x|, g |x|)
 
 main : ((Int, Int), (Int, Int))
