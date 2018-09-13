@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-title: Granule
+title: The Language
 ---
 
 The Granule Language
@@ -22,49 +22,48 @@ The goal with Granule is to support arbitrary, user-customisable graded modaliti
 **Example 1:** Reuse Bounds
 
 ```
-dub : |Int| 2 -> Int
-dub |x| = x + x
-
-trip : |Int| 3 -> Int
-trip |x| = x + x + x
+dup : forall (a : Type) . a |2| -> (a, a)
+dup |x| = (x, x)
 ```
 
 The following is a valid Granule program:
 
 ```
-twice : forall c . |(|Int| c -> Int)| 2 -> |Int| (2 * c) -> Int
-twice |g| |x| = g |x| + g |x|
+twice : forall (a : Type, b : Type, c : Nat) . |(|a| c -> b)| 2 -> |(b, b)| (2 * c) -> Int
+twice |g| |x| = (g |x|, g |x|)
 
-main : Int
-main = twice |dub| |1| + twice |trip| |1|
+main : ((Int, Int), (Int, Int))
+main = twice |dup| |1|
 ```
 
-The first definition specifies a function `dub` on the integers (type `Int`) whose ﬁrst parameter is used non-linearly, exactly twice, as captured by the resource bound `2` indexing the modality. The type `|Int| n` can be read as $$!_n \text{Int}$$ in [Girard et al.’s](https://www.sciencedirect.com/science/article/pii/030439759290386T) notation. The pattern match `|x|` discharges the incoming modality and binds `x` as a non-linear variable. Looking at the type signature for twice, we can deduce that it is a higher-order function: its ﬁrst parameter is a unary function whose parameter is used non-linearly exactly `c` times and which returns an `Int`—a good ﬁt for `dub` and `trip`. The second parameter of `twice` is used non-linearly exactly `2 * c` times, since `g` uses `c` copies of its first parameter and is applied twice. Thus, `main` will produce the value `10`. This example shows Granule's support of coeffect polymorphism.
+The first definition specifies a function `dup` which takes a value and turns it into a pair. The
+first parameter is therefore used non-linearly, exactly twice, as captured by the resource bound `2` indexing the modality. The type `a |n|` can be read as $$!_n \text{a}$$ in [Girard et al.’s](https://www.sciencedirect.com/science/article/pii/030439759290386T) notation. The pattern match `|x|` discharges the incoming modality and binds `x` as a non-linear variable. Looking at the type signature for twice, we can deduce that it is a higher-order function: its ﬁrst parameter is a unary function whose parameter is used non-linearly exactly `c` times and which returns a `b`. The second parameter of `twice` is used non-linearly exactly `2 * c` times, since `g` uses `c` copies of its first parameter and is applied twice. This example shows Granule's support of coeffect polymorphism.
 
 **Example 2:** Security Levels
 
 Another modality available in Granule is indexed by a two-point security lattice with levels: `Lo` and `Hi`. For example:
 
 ```
-secret : |Int| Hi secret = |42|                   -- specified as Hi security
+secret : Int |Private| secret = |42|                   -- specified as private
 
-dub : forall (l : Level) . |Int| l -> |Int| l     -- at any level
+dub : forall (l : Level) . Int |l| -> Int |l|     -- at any level
 dub |x| = |(x + x)|                               -- ...double an int
 
-main : |Int| Hi main = dub secret                 -- double the secret
+main : Int |Private|
+main = dub secret                 -- double the secret
 ```
 
-Here `main` is marked as a high-security value via its modal type. The `dub` function appears again, but its type now tracks security levels and is level-polymorphic. It takes an integer at any level `l`, returning a value at the same level. Crucially, the following program is ill-typed:
+Here `main` is marked as a high-security value (private) via its modal type. The `dub` function appears doubles the integer parameter and its type tracks security levels and is level-polymorphic. It takes an integer at any level `l`, returning a value at the same level. Crucially, the following program is ill-typed:
 
 ```
-leak : |Int| Hi -> |Int| Lo
+leak : Int |Private| -> Int |Public|
 leak |x| = |x|                                    -- fails to type check
 ```
 
 However, we can define a well-typed constant function that discards its high-security value to produce a low-security value by combining resource bounds with security levels:
 
 ```
-notALeak : ||Int| Hi| 0 -> |Int| Lo
+notALeak : Int |Private| |0| -> Int |Public|
 notALeak x = |0|
 ```
 
@@ -75,15 +74,15 @@ A graded possibility modality provides tracking of side eﬀects in the style of
 In the following code, input (`read`) and output (`write`) operations to the stdio are tracked:
 
 ```
-echo : <Int> [R, W]
-echo = let <x : Int> = read in write x
+echo : Int <[R, W]>
+echo = let x <- read in write x
 ```
 
 The following shows both reuse bound coeffects and I/O effects coming together, explaining the side-effects of twice applying some integer function which has a read eﬀect:
 
 ```
-doTwice : |(Int -> <Int> [R])| 2 -> |Int| 2 -> <Int> [R, R]
-doTwice |f| |x| = let <a : Int> = f x in let <b : Int> = f x in <a + b>
+doTwice : (Int -> Int <[R]>) |2| -> Int |2| -> Int <[R, R]>
+doTwice |f| |x| = let a <- f x in let b <- f x in pure (a + b)
 ```
 
 #### Installation
