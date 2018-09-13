@@ -13,8 +13,8 @@ enforcing resource usage throughout the language.
 
 We are actively developing a prototype implementation called
 [Granule](/granule.html) based on our research.  In addition, we are
-developing a new [dependent type theory](/research.html) that will
-greatly expand the expressive power of Granule's type system.  For
-more information about our current research directions please read
-this series of [blog posts]().
+developing a new [dependent type theory]() that will greatly expand
+the expressive power of Granule's type system.  For more information
+about our current research directions please read this series of [blog
+posts]().
 
