@@ -1,0 +1,48 @@
+{% assign collection = site.pubs | sort: "date" | group_by: "type" %}
+
+{% for group in collection %}
+    {% if group.name == 'pub' %}    
+
+    <ul class="list-group">
+
+      {% assign pubs = group.items | sort: "date" | reverse %}
+      {% for publication in pubs %}
+
+        <li class="list-group-item">
+          {{ publication.authors | join: ', ' }}.
+          <strong>{{ publication.title }}</strong>.
+          {% if publication.journal %} {{ publication.journal }}, {% endif %}
+          {% if publication.volume %} volume {{ publication.volume }}. {% endif %}
+          {% if publication.number %} number {{ publication.number }}. {% endif %}
+          {% if publication.pages %} Pages {{ publication.pages }}. {% endif %}
+          {% if publication.date %} {{ publication.date | date: "%d %B %Y" }}.
+	  {% elsif publication.year %} {{ publication.year }}.
+          {% endif %}
+          {% if publication.publisher %}{{ publication.publisher }}.{% endif %}
+          {% if publication.note %}<i>{{ publication.note }}.</i>{% endif %}
+          {% if publication.resource %}
+            {% if publication.resource.bibtex %}
+	      [<a href="{{ publication.resource.bibtex }}">Bibtex</a>]
+            {% endif %}
+            {% if publication.resource.slides %}
+	      [<a href="{{ publication.resource.slides }}">Slides</a>]
+            {% endif %} 
+	    {% if publication.resource.type == 'doi' %}
+	       <a href="http://dx.doi.org/{{ publication.resource.value }}">doi: {{ publication.resource.value }}</a>
+            {% elsif publication.resource.type == 'doi-report' %}
+               <a href="http://dx.doi.org/{{ publication.resource.value }}">doi: {{ publication.resource.value }}</a>
+               [<a href="{{ publication.resource.report-url }}">PDF ({{ publication.resource.report-note }})</a>]          
+	    {% elsif publication.resource.type == 'url' %}
+	      <a href="{{ publication.resource.value }}">{{ publication.resource.value }}</a>
+            {% elsif publication.resource.type == 'pdf-report' %}
+	      [<a href="{{ publication.resource.pdf-url }}">PDF</a>]
+              [<a href="{{ publication.resource.report-url }}">PDF ({{ publication.resource.report-note }})</a>]
+            {% elsif publication.resource.type == 'pdf' %}
+	      [<a href="{{ publication.resource.pdf-url }}">PDF</a>]
+            {% endif %}
+          {% endif %}
+        </li>
+        {% endfor %}        
+    </ul>
+    {% endif %}
+{% endfor %}

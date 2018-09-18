@@ -40,3 +40,14 @@ exclude:
   - Gemfile.lock
   - node_modules
   - update_boostrap.sh
+
+collections:
+  pubs:
+    output: false
+
+  grants:
+    output: false
+
+  preprints:
+    output: false
+

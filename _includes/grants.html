@@ -1,0 +1,21 @@
+{% assign collection = site.grants | sort: "date" | group_by: "type" %}
+
+{% for group in collection %}
+    {% if group.name == 'grant' %}
+
+    <ul class="list-group">
+
+      {% assign grants = group.items | sort: "date" | reverse %}
+      {% for grant in grants %}
+
+        <li class="list-group-item">        
+          <strong>{{ grant.title }}</strong><br>
+          PI: {{ grant.PI | join: ', ' }}.
+          {% if grant.coPI %} coPI: {{ grant.coPI | joint: ',' }}, {% endif %}
+          {{ grant.funder }}.
+          Start date: {{ grant.start | date: "%B %d, %Y" }}. {{ grant.duration }}, {{ grant.amount }}
+        </li>
+        {% endfor %}        
+    </ul>
+    {% endif %}
+{% endfor %}

@@ -9,7 +9,7 @@ Members of the Project
 #### Faculty
 
 - Harley Eades, [website](http://metatheorem.org/)
-- Clement Aubery, [website]()
+- Clément Aubert, [website](http://spots.augusta.edu/caubert/)
 
 #### Undergraduate Students
 
