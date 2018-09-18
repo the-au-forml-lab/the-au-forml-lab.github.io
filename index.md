@@ -4,11 +4,12 @@ title: The ForML Lab
 ---
 
 The ForML (**For**mal **M**ethods and Computational **L**ogic) Lab in
-the [School of Computer and Cyber Sciences]() at [Augusta
-University]() strives to advance the software development process by
-utilizing the principles and techniques from logic, mathematics, and
-interactive/automated theorem proving to insure the correctness of
-software.
+the [School of Computer and Cyber
+Sciences](https://www.augusta.edu/ccs/) at [Augusta
+University](https://www.augusta.edu/) strives to advance the software
+development process by utilizing the principles and techniques from
+logic, mathematics, and interactive/automated theorem proving to
+insure the correctness of software.
 
 The primary research areas of the faculty and students in the ForML
 lab are: foundations of programming languages, interactive theorem
