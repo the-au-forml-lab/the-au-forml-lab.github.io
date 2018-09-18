@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Granule Project
+title: The ForML Lab
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  The Granule Project: A Research Project Studying the Next Generation of Functional Programming Languages
+  The ForML Lab
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "heades/granue-project"
+repository: "heades/formlab"
 
 # Build settings
 plugins:

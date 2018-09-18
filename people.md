@@ -6,16 +6,19 @@ title: People
 Members of the Project
 ----------------------
 
-#### Project Investigators
+#### Faculty
 
-- Dominic Orchard, University of Kent, [website](https://www.cs.kent.ac.uk/people/staff/dao7/)
-- Harley Eades, Augusta University, [website](http://metatheorem.org/)
+- Harley Eades, [website](http://metatheorem.org/)
+- Clement Aubery, [website]()
 
-#### Students
+#### Undergraduate Students
 
-- Vilem-Benjamin Liepelt, PhD student, University of Kent, [website](https://github.com/buggymcbugfix)
-- Preston Keel, Undergraduate Research Assistant, Augusta University, [website](https://github.com/pkeel)
+- Preston Keel, 
+- Aubrey Bruant,
+- Blake Watkins
 
 #### Collaborators
 
-- Nathan Bedell, PhD Student, Tulane University
+- Jiaming Jiang, PhD Student, North Carolina State Universtiy, Summer 2016 - Present
+- Richard Blair, PhD Student, Universtiy of Iowa, Summer 2017
+- Nathan Bedell, PhD Student, Tulane University, Summer 2018 - Present
