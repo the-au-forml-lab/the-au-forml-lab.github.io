@@ -14,7 +14,7 @@ Members of the Project
 #### Undergraduate Students
 
 - Preston Keel, [website](https://github.com/pkeel)
-- Aubrey Bruant, [website](https://github.com/aubbryant)
+- Aubrey Bryant, [website](https://github.com/aubbryant)
 - Blake Watkins, [website](https://github.com/blakewatkins)
 
 #### Collaborators
