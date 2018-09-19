@@ -1,0 +1,50 @@
+{% assign collection = site.preprints | sort: "date" | group_by: "type" %}
+
+{% for group in collection %}
+    {% if group.name == 'preprint' %}    
+
+    <ul class="list-group">
+
+      {% assign preprints = group.items | sort: "date" | reverse %}
+      {% for preprint in preprints %}
+
+        <li class="list-group-item">
+          {{ preprint.authors | join: ', ' }}.
+          <strong>{{ preprint.title }}</strong>.
+          {% if preprint.journal %} {{ preprint.journal }}, {% endif %}
+          {% if preprint.volume %} volume {{ preprint.volume }}. {% endif %}
+          {% if preprint.number %} number {{ preprint.number }}. {% endif %}
+          {% if preprint.pages %} Pages {{ preprint.pages }}. {% endif %}
+          {% if preprint.date %} {{ preprint.date | date: "%d %B %Y" }}.
+	  {% elsif preprint.year %} {{ preprint.year }}.
+          {% endif %}
+          {% if preprint.publisher %}{{ preprint.publisher }}.{% endif %}
+          {% if preprint.note %}<i>{{ preprint.note }}.</i>{% endif %}
+          {% if preprint.resource %}
+            {% if preprint.resource.bibtex %}
+	      [<a href="{{ preprint.resource.bibtex }}">Bibtex</a>]
+            {% endif %}
+            {% if preprint.resource.slides %}
+	      [<a href="{{ preprint.resource.slides }}">Slides</a>]
+            {% endif %} 
+	    {% if preprint.resource.type == 'doi' %}
+	       <a href="http://dx.doi.org/{{ preprint.resource.value }}">doi: {{ preprint.resource.value }}</a>
+            {% elsif preprint.resource.type == 'arxiv' %}
+	       <a href="https://arxiv.org/abs/{{ preprint.resource.value }}">arXiv: {{ preprint.resource.value }}</a>
+            {% elsif preprint.resource.type == 'doi-report' %}
+               <a href="http://dx.doi.org/{{ preprint.resource.value }}">doi: {{ preprint.resource.value }}</a>
+               [<a href="{{ preprint.resource.report-url }}">PDF ({{ preprint.resource.report-note }})</a>]          
+	    {% elsif preprint.resource.type == 'url' %}
+	      <a href="{{ preprint.resource.value }}">{{ preprint.resource.value }}</a>
+            {% elsif preprint.resource.type == 'pdf-report' %}
+	      [<a href="{{ preprint.resource.pdf-url }}">PDF</a>]
+              [<a href="{{ preprint.resource.report-url }}">PDF ({{ preprint.resource.report-note }})</a>]
+            {% elsif preprint.resource.type == 'pdf' %}
+	      [<a href="{{ preprint.resource.pdf-url }}">PDF</a>]
+            {% endif %}
+          {% endif %}
+        </li>
+        {% endfor %}        
+    </ul>
+    {% endif %}
+{% endfor %}
