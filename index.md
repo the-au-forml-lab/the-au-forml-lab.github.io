@@ -9,7 +9,7 @@ Sciences](https://www.augusta.edu/ccs/) at [Augusta
 University](https://www.augusta.edu/) strives to advance the software
 development process by utilizing the principles and techniques from
 logic, mathematics, and interactive/automated theorem proving to
-insure the correctness of software.
+ensure the correctness of software.
 
 The primary research areas of the faculty and students in the ForML
 lab are: foundations of programming languages, interactive theorem
