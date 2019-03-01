@@ -28,6 +28,7 @@ repository: "heades/formlab"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # A list of the pages to display in the navigation bar
 header_pages:

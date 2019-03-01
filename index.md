@@ -1,6 +1,7 @@
 ---
 layout: start
 title: The ForML Lab
+redirect_from: "metatheorem.org/formlab"
 ---
 
 The ForML (**For**mal **M**ethods and Computational **L**ogic) Lab in
