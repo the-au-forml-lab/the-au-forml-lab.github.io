@@ -16,7 +16,7 @@ lab are: foundations of programming languages, interactive theorem
 proving, categorical logic, reversible computing, and secure
 programming.
 
-The ForML Lab is extremely excited to announce that the first [The Southeast Regional Programming Languages Seminar
+The ForML Lab is extremely excited to announce that the first [Southeast Regional Programming Languages Seminar
 ](https://the-au-forml-lab.github.io/SERPL/) will be held at the [Georgia Cyber Center
 (GCC)](https://cybercenter.georgia.gov/), the new home of the [Augusta
 University School of Computer and Cyber
