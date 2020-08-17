@@ -10,6 +10,8 @@ Members of the Project
 
 - Harley Eades, [website](http://metatheorem.org/)
 - Clément Aubert, [website](http://spots.augusta.edu/caubert/)
+- Paul Attie, [website][?]
+- Alexander Schwarzmann[?] 
 
 #### Undergraduate Students
 
