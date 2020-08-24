@@ -39,11 +39,11 @@ stated otherwise.
 - 9/25/2020: TBA by Dominic Orchard
 - 10/2/2020: TBA by Valeria de Paiva
 <!-- 10/9/2020: -->
-<!-- 10/16/2020:-->
-<!--- 10/23/2020:-->
+- 10/16/2020: TBA by Jason Williams
+- 10/23/2020: TBA by Peter Hines
 - 10/30/2020: TBA by Gagan Agrawal
-<!--- 11/6/2020:-->
-<!--- 11/13/2020:-->
+- 11/6/2020: TBA by Omar Chowdury
+- 11/13/2020: TBA by Edwin Brady
 <!--- 11/20/2020: -->
 <!--- 11/27/2020:-->
 <!--- 12/4/2020:-->
