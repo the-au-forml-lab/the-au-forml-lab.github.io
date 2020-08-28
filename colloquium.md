@@ -33,7 +33,7 @@ stated otherwise.
 
 - 8/21/2020: [Dependable Systems for Managing Valuable Data](/colloquium_talks/Tremel.html) by Edward Tremel
 - 8/28/2020: [Identification and Extraction of Content-hiding iOS Applications](/colloquium_talks/Dorai.html) by Gokila Dorai
-- 9/4/2020: [Language-Integrated Verification](/colloquium_talks/Jhala.html) by Ranjit Jhala
+- 9/4/2020: [Language-Integrated Verification](/colloquium_talks/Jhala.html) by [Ranjit Jhala](https://ranjitjhala.github.io/)
 - 9/11/2020: TBA by David Van Horn
 - 9/18/2020: TBA by Costas Busch
 - 9/25/2020: TBA by Dominic Orchard

@@ -5,7 +5,7 @@ title: Language-Integrated Verification
 
 Language-Integrated Verification
 ======
-### by Dr. Ranjit Jhala
+### by [Dr. Ranjit Jhala](https://ranjitjhala.github.io/)
 
 - When: Friday, 09/04/2020, between 1pm and 2pm
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
