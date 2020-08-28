@@ -46,6 +46,6 @@ stated otherwise.
 - 11/13/2020: TBA by Edwin Brady
 <!--- 11/20/2020: -->
 <!--- 11/27/2020:-->
-12/4/2020: TBA by Derek Dreyer
+- 12/4/2020: TBA by Derek Dreyer
 
 
