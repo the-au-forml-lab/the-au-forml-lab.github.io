@@ -28,7 +28,7 @@ Harley Eades an <a href="mailto:harley.eades@gmail.com">email</a>.
 
 #### Schedule
 
-Each talk is between 1pm and 2pm on their respective day, unless
+Each talk is between 1pm and 2pm EDT qon their respective day, unless
 stated otherwise.
 
 - 8/21/2020: [Dependable Systems for Managing Valuable Data](/colloquium_talks/Tremel.html) by Edward Tremel
