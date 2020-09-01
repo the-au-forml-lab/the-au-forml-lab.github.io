@@ -9,6 +9,7 @@ Identification and Extraction of Content-hiding iOS Applications
 
 - When: Friday, 08/28/2020, between 1pm and 2pm
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
+- Youtube video: [https://youtu.be/B0OHWsRg15s](https://youtu.be/B0OHWsRg15s)
 
 #### Abstract
 

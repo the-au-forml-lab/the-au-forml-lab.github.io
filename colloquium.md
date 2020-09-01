@@ -26,6 +26,10 @@ Each talk will be over Zoom.  If you are interested in attending one
 of the presentations please RSVP a few days in advance by sending
 Harley Eades an <a href="mailto:harley.eades@gmail.com">email</a>.
 
+### Videos
+
+All of the talks are recorded and posted to Youtube and can be found here: [https://www.youtube.com/playlist?list=PLTq59cBPOhWJK2QW9jtXEwhqT-S4I4vwE](https://www.youtube.com/playlist?list=PLTq59cBPOhWJK2QW9jtXEwhqT-S4I4vwE)
+
 #### Schedule
 
 Each talk is between 1pm and 2pm EDT on their respective day, unless
