@@ -15,7 +15,7 @@ Members of the Project
 
 #### Undergraduate Students
 
-- Jake Tuten, Honors Thesis on the Granule Project
+- Jake Tuten, Honors Thesis on the [Granule Project](https://granule-project.github.io/)
 
 #### Collaborators
 
