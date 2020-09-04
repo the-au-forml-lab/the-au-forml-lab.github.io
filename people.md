@@ -19,9 +19,9 @@ Members of the Project
 
 #### Collaborators
 
+- Jiaming Jiang, PhD Student, North Carolina State Universtiy, Summer 2016 - Summer 2019
 - Richard Blair, PhD Student, Universtiy of Iowa, Summer 2017
 - Nathan Bedell, PhD Student, Tulane University, Summer 2018
-- Jiaming Jiang, PhD Student, North Carolina State Universtiy, Summer 2016 - Summer 2019
 
 ### Alumni
 
