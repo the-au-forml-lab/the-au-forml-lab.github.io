@@ -10,17 +10,21 @@ Members of the Project
 
 - Harley Eades, [website](http://metatheorem.org/)
 - Clément Aubert, [website](http://spots.augusta.edu/caubert/)
-- Paul Attie, [website][?]
-- Alexander Schwarzmann[?] 
+- Paul Attie
+- Alexander Schwarzmann
 
 #### Undergraduate Students
+
+- Jake Tuten, Honors Thesis on the Granule Project
+
+#### Collaborators
+
+- Richard Blair, PhD Student, Universtiy of Iowa, Summer 2017
+- Nathan Bedell, PhD Student, Tulane University, Summer 2018
+- Jiaming Jiang, PhD Student, North Carolina State Universtiy, Summer 2016 - Summer 2019
+
+### Alumni
 
 - Preston Keel, [website](https://github.com/pkeel)
 - Aubrey Bryant, [website](https://github.com/aubbryant)
 - Blake Watkins, [website](https://github.com/blakewatkins)
-
-#### Collaborators
-
-- Jiaming Jiang, PhD Student, North Carolina State Universtiy, Summer 2016 - Present
-- Richard Blair, PhD Student, Universtiy of Iowa, Summer 2017
-- Nathan Bedell, PhD Student, Tulane University, Summer 2018 - Present
