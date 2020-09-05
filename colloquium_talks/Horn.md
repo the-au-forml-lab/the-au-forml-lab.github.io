@@ -9,6 +9,7 @@ From Scripting to Proving: Gradual Verification for Expressive Programming Langu
 
 - When: Friday, 09/11/2020, between 1pm and 2pm, EDT
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
+- YouTube Stream: [https://youtu.be/NjzAlu8LByo](https://youtu.be/NjzAlu8LByo)
 
 #### Abstract
 
