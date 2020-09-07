@@ -9,7 +9,7 @@ Language-Integrated Verification
 
 - When: Friday, 09/04/2020, between 1pm and 2pm, EDT
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- Reording: [https://youtu.be/0DTg1sgw58Y](https://youtu.be/0DTg1sgw58Y)
+- Recording: [https://youtu.be/0DTg1sgw58Y](https://youtu.be/0DTg1sgw58Y)
 
 #### Abstract
 
