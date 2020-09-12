@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Algorithmic Game Theory for Network Bottlenecks
+title: Algorithmic Game Theory for Network Bottlenecks
 ---
 
  Algorithmic Game Theory for Network Bottlenecks
@@ -9,7 +9,7 @@ title:  Algorithmic Game Theory for Network Bottlenecks
 
 - When: Friday, 09/18/2020, between 1pm and 2pm, EDT
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Stream: ?
+- YouTube Stream: [https://youtu.be/lBGorKp06Ts](https://youtu.be/lBGorKp06Ts)
 
 #### Abstract
 
@@ -60,11 +60,12 @@ equilibria for bottleneck games.
 
 Costas Busch obtained a B.Sc. degree in 1992 and an M.Sc. degree in
 1995 both in computer science from the University of Crete, Greece. He
-received a Ph.D. degree in computer science from Brown University in
-2000. He is a professor at the School of Computer and Cyber Sciences
+received a Ph.D. degree in computer science from Brown University in 2000.
+He is a professor at the School of Computer and Cyber Sciences
 at Augusta University. His research interests are in the areas of
 distributed algorithms and data structures, design and analysis of
 communication algorithms, algorithmic game theory, and blockchains. He
 has publications in several prominent venues in algorithms and
 distributed computing.  His research has been supported by the
 National Science Foundation.
+
