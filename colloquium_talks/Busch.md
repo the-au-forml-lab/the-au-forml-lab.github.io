@@ -9,7 +9,7 @@ title: Algorithmic Game Theory for Network Bottlenecks
 
 - When: Friday, 09/18/2020, between 1pm and 2pm, EDT
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Stream: [https://youtu.be/lBGorKp06Ts](https://youtu.be/lBGorKp06Ts)
+- YouTube Stream: [https://youtu.be/0S0m-KpIjXM](https://youtu.be/0S0m-KpIjXM)
 
 #### Abstract
 
