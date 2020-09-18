@@ -39,7 +39,7 @@ stated otherwise.
 - 8/28/2020: [Identification and Extraction of Content-hiding iOS Applications](/colloquium_talks/Dorai.html) by Gokila Dorai
 - 9/4/2020: [Language-Integrated Verification](/colloquium_talks/Jhala.html) by [Ranjit Jhala](https://ranjitjhala.github.io/)
 - 9/11/2020: [From Scripting to Proving: Gradual Verification for Expressive Programming Languages](/colloquium_talks/Horn.md) by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/)
-- 9/18/2020: [Algorithmic Game Theory for Network Bottlenecks](/colloquium_talks/Busch.html) by [Costas Busch](/)
+- 9/18/2020: [Algorithmic Game Theory for Network Bottlenecks](/colloquium_talks/Busch.html) by Costas Busch
 - 9/25/2020: TBA by Dominic Orchard
 - 10/2/2020: TBA by Valeria de Paiva
 <!-- 10/9/2020: -->
