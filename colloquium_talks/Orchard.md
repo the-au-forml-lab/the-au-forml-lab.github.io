@@ -32,7 +32,13 @@ This talk will be pitched at undergraduate/postgraduate level and will
 include various programming examples in more than one language
 (spoiler: I will start with some assembly code!)
 
+## Bio
 
-
-
+Dominic is a Lecturer at the School of Computing, University of
+Kent. He works mostly at the intersection between logic, semantics,
+and types, but also likes to be build programming systems. Dominic has
+an undergraduate degree in Computer Science from the University of
+Warwick and a PhD in Computer Science from the University of
+Cambridge. He worked as a Research Associate at Imperial College
+London and Cambridge before joining the University of Kent.
 
