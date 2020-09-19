@@ -32,7 +32,7 @@ This talk will be pitched at undergraduate/postgraduate level and will
 include various programming examples in more than one language
 (spoiler: I will start with some assembly code!)
 
-## Bio
+#### Bio
 
 Dominic is a Lecturer at the School of Computing, University of
 Kent. He works mostly at the intersection between logic, semantics,
