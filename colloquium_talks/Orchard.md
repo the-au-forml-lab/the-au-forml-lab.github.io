@@ -3,7 +3,7 @@ layout: page
 title: Making Types More Descriptive via Grading
 ---
 
- Making Types More Descriptive via Grading
+Making Types More Descriptive via Grading
 ======
 ### by [Dr. Dominic Orchard](https://www.cs.kent.ac.uk/people/staff/dao7/)
 
