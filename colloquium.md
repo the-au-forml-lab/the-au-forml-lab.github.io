@@ -41,7 +41,7 @@ stated otherwise.
 - 9/11/2020: [From Scripting to Proving: Gradual Verification for Expressive Programming Languages](/colloquium_talks/Horn.md) by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/)
 - 9/18/2020: [Algorithmic Game Theory for Network Bottlenecks](/colloquium_talks/Busch.html) by Costas Busch
 - 9/25/2020: [Making Types More Descriptive via Grading](/colloquium_talks/Orchard.html) by [Dominic Orchard](https://www.cs.kent.ac.uk/people/staff/dao7/)
-- 10/2/2020: [Benchmarking Theorems of Implicational Linear Logic](/colloquium_talks/dePaiva.html) by [Dr. Valeria de Paiva](https://vcvpaiva.github.io/)
+- 10/2/2020: [Benchmarking Theorems of Implicational Linear Logic](/colloquium_talks/dePaiva.html) by [Valeria de Paiva](https://vcvpaiva.github.io/)
 <!-- 10/9/2020: -->
 - 10/16/2020: TBA by Jason Williams
 - 10/23/2020: TBA by Peter Hines
