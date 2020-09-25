@@ -9,7 +9,7 @@ Benchmarking Theorems of Implicational Linear Logic
 
 - When: Friday, 10/02/2020, between 1pm and 2pm, EDT
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Stream: TBA
+- YouTube Stream: [https://youtu.be/1HVJLFysmHs](https://youtu.be/1HVJLFysmHs)
 
 #### Abstract
 
