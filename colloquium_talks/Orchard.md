@@ -9,7 +9,7 @@ Making Types More Descriptive via Grading
 
 - When: Friday, 09/25/2020, between 1pm and 2pm, EDT
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Stream: [https://youtu.be/5bqkq_S3p_0](https://youtu.be/5bqkq_S3p_0)
+- YouTube Recording: [https://youtu.be/PLPHWfIjBmo](https://youtu.be/PLPHWfIjBmo)
 
 #### Abstract
 
