@@ -46,7 +46,7 @@ stated otherwise.
 - 10/16/2020: [Developing Distinct IT Use Constructs: Literature Analysis, Theory, and an Empirical Test](/colloquium_talks/Williams.html) by Jason Williams
 - 10/23/2020: TBA by Peter Hines
 - 10/30/2020: TBA by Gagan Agrawal
-- 11/6/2020: TBA by Omar Chowdury
+- 11/6/2020: [On Adversarial Testing of Cellular Network Protocols](/colloquium_talks/Chowdury.html) by [Omar Chowdury](http://homepage.divms.uiowa.edu/~comarhaider/)
 - 11/13/2020: TBA by Edwin Brady
 <!--- 11/20/2020: -->
 <!--- 11/27/2020:-->
