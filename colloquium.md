@@ -43,7 +43,7 @@ stated otherwise.
 - 9/25/2020: [Making Types More Descriptive via Grading](/colloquium_talks/Orchard.html) by [Dominic Orchard](https://www.cs.kent.ac.uk/people/staff/dao7/)
 - 10/2/2020: [Benchmarking Theorems of Implicational Linear Logic](/colloquium_talks/dePaiva.html) by [Valeria de Paiva](https://vcvpaiva.github.io/)
 <!-- 10/9/2020: -->
-- 10/16/2020: TBA by Jason Williams
+- 10/16/2020: [Developing Distinct IT Use Constructs: Literature Analysis, Theory, and an Empirical Test](/colloquium_talks/Williams.html) by Jason Williams
 - 10/23/2020: TBA by Peter Hines
 - 10/30/2020: TBA by Gagan Agrawal
 - 11/6/2020: TBA by Omar Chowdury
