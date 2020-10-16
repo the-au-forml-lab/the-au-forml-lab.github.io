@@ -9,7 +9,7 @@ Category Theory in Communication, Cryptography, and Security
 
 - When: Friday, 10/23/2020, between 1pm and 2pm, EDT
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Stream: https://youtu.be/Njw5Aad-gBQ
+- YouTube Stream: <https://youtu.be/Njw5Aad-gBQ>
 
 #### Abstract
 
