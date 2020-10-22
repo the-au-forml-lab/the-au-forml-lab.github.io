@@ -47,7 +47,7 @@ stated otherwise.
 - 10/30/2020: TBA by Gagan Agrawal
 - 11/6/2020: [On Adversarial Testing of Cellular Network Protocols](/colloquium_talks/Chowdury.html) by [Omar Chowdury](http://homepage.divms.uiowa.edu/~comarhaider/)
 - 11/13/2020: TBA by Edwin Brady
-<!--- 11/20/2020: TBA by Robert Atkey-->
+- 11/20/2020: TBA by Robert Atkey
 - 12/4/2020: TBA by Derek Dreyer
 
 
