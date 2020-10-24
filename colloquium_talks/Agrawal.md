@@ -41,8 +41,8 @@ at Augusta University.  Agrawal received his undergraduate degree from
 Indian Institute of Technology, Kanpur, in 1991 and MS and PhD degrees
 from University of Maryland, College Park, in 1994 and 1996. He served
 as assistant professor at University of Delaware from 1996 to 2001,
-and Associate and Full Professor at Ohio State between 2001 and
-2019. Agrawal’s research interests include high performance computing
+and Associate and Full Professor at Ohio State between 2001 and 2019.
+Agrawal’s research interests include high performance computing
 (with emphasis on programming and application frameworks, performance
 modeling and resilience), parallel machine learning and data mining,
 cloud and edge computing, and scientific data management. He has
