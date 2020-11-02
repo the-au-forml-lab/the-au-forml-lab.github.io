@@ -9,7 +9,7 @@ On Adversarial Testing of Cellular Network Protocols
 
 - When: Friday, 11/06/2020, between 1pm and 2pm, EDT
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Stream: TBA
+- YouTube Stream: <https://youtu.be/W66rFfWj_3s>
 
 #### Abstract
 
