@@ -9,7 +9,7 @@ Achieving Programmability and Performance for Data-Intensive Computations Using 
 
 - When: Friday, 10/30/2020, between 1pm and 2pm, EDT
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Stream: <https://youtu.be/w2YwapDABRw>
+- YouTube Recording: <https://youtu.be/w2YwapDABRw>
 
 #### Abstract
 
