@@ -46,7 +46,7 @@ stated otherwise.
 - 10/23/2020: [Category Theory in Communication, Cryptography, and Security](/colloquium_talks/Hines.html) by [Peter Hines](http://www.peterhines.info/)
 - 10/30/2020: [Achieving Programmability and Performance for Data-Intensive Computations Using Reduction Based APIs](/colloquium_talks/Agrawal.html) by Gagan Agrawal
 - 11/6/2020: [On Adversarial Testing of Cellular Network Protocols](/colloquium_talks/Chowdury.html) by [Omar Chowdury](http://homepage.divms.uiowa.edu/~comarhaider/)
-- 11/13/2020: [Dependent Type Driven Program Synthesis](/colloquium_talks/Brady.html) by Edwin Brady
+- 11/13/2020: [Dependent Type Driven Program Synthesis](/colloquium_talks/Brady.html) by [Edwin Brady](https://www.type-driven.org.uk/edwinb/)
 - 11/20/2020: TBA by Robert Atkey
 - 12/4/2020: TBA by Derek Dreyer
 
