@@ -7,9 +7,9 @@ Dependent Type Driven Program Synthesis
 ======
 ### by [Dr. Edwin Brady](https://www.type-driven.org.uk/edwinb/)
 
-- When: Friday, 11/13/2020, between 1pm and 2pm, EDT
+- When: Friday, 11/13/2020, between 1pm and 2pm, EST
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Recording: <https://youtu.be/KCCAyWqtY1M>
+- YouTube Recording: <https://youtu.be/s9PAb9c6J44>
 
 #### Abstract
 
