@@ -9,7 +9,7 @@ Resource Constrained Programming with Full Dependent Types
 
 - When: Friday, 11/20/2020, between 1pm and 2pm, EST
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Stream: <https://youtu.be/-NO0iquBnyo>
+- YouTube Recording: <https://youtu.be/MhYbLS6XiZo>
 
 #### Abstract
 
