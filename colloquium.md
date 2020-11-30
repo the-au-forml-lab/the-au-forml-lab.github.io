@@ -48,6 +48,6 @@ stated otherwise.
 - 11/6/2020: [On Adversarial Testing of Cellular Network Protocols](/colloquium_talks/Chowdury.html) by [Omar Chowdury](http://homepage.divms.uiowa.edu/~comarhaider/)
 - 11/13/2020: [Dependent Type Driven Program Synthesis](/colloquium_talks/Brady.html) by [Edwin Brady](https://www.type-driven.org.uk/edwinb/)
 - 11/20/2020: [Resource Constrained Programming with Full Dependent Types](/colloquium_talks/Atkey.html) by [Robert Atkey](https://bentnib.org/)
-- 12/4/2020: TBA by Derek Dreyer
+- 12/4/2020: [RustBelt: Logical Foundations for the Future of Safe Systems Programming](/colloquium_talks/Dreyer.html) by [Derek Dreyer](http://people.mpi-sws.org/~dreyer/)
 
 
