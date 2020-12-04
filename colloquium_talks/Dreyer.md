@@ -9,7 +9,7 @@ RustBelt: Logical Foundations for the Future of Safe Systems Programming
 
 - When: Friday, 12/04/2020, between 1pm and 2pm, EST
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Stream: <https://youtu.be/z1Z4-AAIWQA>
+- YouTube Recording: <https://youtu.be/U52dDRBzfw8>
 
 #### Abstract
 
