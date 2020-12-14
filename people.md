@@ -8,7 +8,7 @@ Members of the Project
 
 #### Faculty
 
-- Clément Aubert, [website](http://spots.augusta.edu/caubert/)
+- Clément Aubert, [website](https://spots.augusta.edu/caubert/)
 - Paul Attie, [website](https://scholar.google.com/citations?user=weh0F3wAAAAJ&hl=en&oi=ao)
 - Harley Eades, [website](http://metatheorem.org/)
 - Alexander Schwarzmann, [website](https://scholar.google.com/citations?user=gQo0AHYAAAAJ&hl=en)
