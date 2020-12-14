@@ -10,12 +10,19 @@ Members of the Project
 
 - Harley Eades, [website](http://metatheorem.org/)
 - Clément Aubert, [website](http://spots.augusta.edu/caubert/)
-- Paul Attie
+- Paul Attie, [website](https://scholar.google.com/citations?user=weh0F3wAAAAJ&hl=en&oi=ao)
 - Alexander Schwarzmann, [website](https://scholar.google.com/citations?user=gQo0AHYAAAAJ&hl=en)
+
+#### Graduate Students
+
+- Assya Sellak, MS Student on the [StATyC Project](https://spots.augusta.edu/caubert/research/statyc/)
+- Neea Rusch, PhD Student on the [StATyC Project](https://spots.augusta.edu/caubert/research/statyc/)
+
 
 #### Undergraduate Students
 
 - Jake Tuten, Honors Thesis on the [Granule Project](https://granule-project.github.io/)
+- Mark Holcomb
 
 #### Collaborators
 
@@ -28,3 +35,4 @@ Members of the Project
 - Preston Keel, [website](https://github.com/pkeel)
 - Aubrey Bryant, [website](https://github.com/aubbryant)
 - Blake Watkins, [website](https://github.com/blakewatkins)
+- John Natale, [summer project](https://spots.augusta.edu/caubert/teaching/2020/summer/curs4990/)
