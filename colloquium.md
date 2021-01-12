@@ -46,8 +46,8 @@ All of the talks are recorded and posted this Youtube [playlist](https://youtube
 - 29/01/2021 : TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
   
-- 05/02/2021 : TBA
-  - Time: 1pm-2pm EST (6pm-7pm UTC)
+- 05/02/2021 : TBA by Shin-ya Katsumata
+  - Time: 9am-10am EST (2pm-3pm UTC)
   
 - 12/02/2021 : TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
