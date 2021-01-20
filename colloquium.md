@@ -36,9 +36,6 @@ All of the talks are recorded and posted this Youtube [playlist](https://youtube
 
 
 #### Schedule
-
-- 22/01/2021 : TBA
-  - Time: 1pm-2pm EST (6pm-7pm UTC)
   
 - 29/01/2021 : TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
