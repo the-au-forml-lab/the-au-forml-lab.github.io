@@ -46,7 +46,7 @@ All of the talks are recorded and posted this Youtube [playlist](https://youtube
 - 05/02/2021 : TBA by __Shin-ya Katsumata__
   - Time: 9am-10am EST (2pm-3pm UTC)
   
-- 12/02/2021 : TBA
+- 12/02/2021 : TBA by __William Byrd__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
   
 - 19/02/2021 : TBA by __Peter Selinger__
