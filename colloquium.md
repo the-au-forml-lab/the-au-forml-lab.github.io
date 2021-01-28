@@ -50,10 +50,10 @@ by __Shin-ya Katsumata__
 - 26/02/2021 : TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
   
-- 05/03/2021 : TBA
+- 05/03/2021 : TBA by by __Marco Boardi__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
   
-- 12/03/2021 : TBA
+- 12/03/2021 : TBA 
   - Time: 1pm-2pm EST (6pm-7pm UTC)
   
 - 19/03/2021 : TBA
