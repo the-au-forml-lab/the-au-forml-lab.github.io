@@ -61,7 +61,7 @@ All of the talks are recorded and posted this Youtube [playlist](https://youtube
 - 26/03/2021 : TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
-- 02/04/2021 : TBA
+- 02/04/2021 : TBA by __Wendy Du Bow__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
 - 16/04/2021 : TBA
