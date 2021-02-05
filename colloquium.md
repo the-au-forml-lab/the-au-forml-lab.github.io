@@ -46,7 +46,7 @@ All of the talks are recorded and posted this Youtube [playlist](https://youtube
 - 19/02/2021 : TBA by __Peter Selinger__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
-- 26/02/2021 : TBA
+- 26/02/2021 : TBA by __Tarmo Uustalu__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
 - 05/03/2021 : TBA by by __Marco Gaboardi__
