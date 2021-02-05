@@ -9,7 +9,7 @@ Codensity Games for Bisimilarity
 
 - When: Friday, 05/02/2021, between 9am and 10am EST (2pm - 3pm UTC)
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Stream: <https://youtu.be/8auEgwMvoOc>
+- YouTube Recording: <https://youtu.be/8auEgwMvoOc>
 
 #### Abstract
 
