@@ -40,7 +40,8 @@ All of the talks are recorded and posted this Youtube [playlist](https://youtube
 - 05/02/2021 : [Codensity Games for Bisimilarity](colloquium_talks/Katsumata.html ) by __Shin-ya Katsumata__
   - Time: 9am-10am EST (2pm-3pm UTC)
 <br><br>
-- 12/02/2021 : TBA by __William Byrd__
+- 12/02/2021 : [Relational Programming in miniKanren: Program Synthesis, Treating Rare Diseases, and More!](colloquium_talks/Byrd.html ) 
+by __William Byrd__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
 - 19/02/2021 : TBA by __Peter Selinger__
@@ -58,10 +59,10 @@ All of the talks are recorded and posted this Youtube [playlist](https://youtube
 - 19/03/2021 : TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
-- 26/03/2021 : TBA
-  - Time: 1pm-2pm EST (6pm-7pm UTC)
+- 26/03/2021 : TBA by __Mitchell Riley__
+  - Time: 9am-10am EST (2pm-3pm UTC)
 <br><br>  
-- 02/04/2021 : TBA by __Wendy Du Bow__
+- 02/04/2021 : TBA by TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
 - 16/04/2021 : TBA
