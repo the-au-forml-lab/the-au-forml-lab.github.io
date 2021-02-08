@@ -9,7 +9,7 @@ Relational Programming in miniKanren: Program Synthesis, Treating Rare Diseases,
 
 - When: Friday, 12/02/2021, between 1pm and 2pm EST (6pm - 7pm UTC)
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Recording: <https://youtu.be/8auEgwMvoOc>
+- YouTube stream: <https://youtu.be/aS8oj2GXras>
 
 #### Abstract
 
