@@ -18,8 +18,8 @@ possible, that approximates a given target operation up to given
 epsilon. For nearly two decades, from 1995 to 2012, the standard
 solution to this problem was the so-called Solovay-Kitaev algorithm,
 which is based on geometric ideas. This algorithm produces circuits of
-size $O(\mathsf{log}^c(1/\epsilon))$, where $c$ is a constant
-approximately equal to $3.97$. It was a long-standing open problem
+size $$O(\mathsf{log}^c(1/\epsilon))$$, where $$c$$ is a constant
+approximately equal to $$3.97$$. It was a long-standing open problem
 whether the exponent c could be reduced to 1. In this talk, I will
 answer this question positively, and report on a new class of
 efficient algorithms for solving the approximate synthesis
