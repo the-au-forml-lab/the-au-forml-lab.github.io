@@ -47,7 +47,7 @@ by __William Byrd__
 - 19/02/2021 : [Number-theoretic methods in quantum computing](colloquium_talks/Selinger.html) by __Peter Selinger__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
-- 26/02/2021 : TBA by __Tarmo Uustalu__
+- 26/02/2021 : [Skew X categories and structural proof theory](colloquium_talks/Uustalu.html) by __Tarmo Uustalu__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
 - 05/03/2021 : TBA by by __Marco Gaboardi__
