@@ -50,8 +50,9 @@ by __William Byrd__
 - 26/02/2021 : [Skew X categories and structural proof theory](colloquium_talks/Uustalu.html) by __Tarmo Uustalu__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
-- 05/03/2021 : TBA by by __Marco Gaboardi__
-  - Time: 1pm-2pm EST (6pm-7pm UTC)
+- 05/03/2021 : [Coupled Relational Symbolic Execution](colloquium_talks/Gaboardi.html ) 
+by __Marco Gaboardi__
+  - Time: 2pm-3pm EST (7pm-8pm UTC)
 <br><br>  
 - 12/03/2021 : TBA 
   - Time: 1pm-2pm EST (6pm-7pm UTC)

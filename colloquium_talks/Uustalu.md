@@ -9,7 +9,7 @@ Skew X categories and structural proof theory
 
 - When: Friday, 26/02/2021, between 1pm and 2pm EST (6pm - 7pm UTC)
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Stream: <https://youtu.be/HAyDVjybAFw>
+- YouTube Recording: <https://youtu.be/HAyDVjybAFw>
 
 #### Abstract
 
