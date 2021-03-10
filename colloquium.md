@@ -69,7 +69,7 @@ by __Marco Gaboardi__
 - 23/04/2021 : TBA by __Ugo Dal Lago__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
-- 30/04/2021 : TBA
+- 30/04/2021 : TBA by __Jon Sterling__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
 - 07/05/2021 : TBA
