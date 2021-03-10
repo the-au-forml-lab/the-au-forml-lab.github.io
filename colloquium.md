@@ -54,22 +54,19 @@ by __William Byrd__
 by __Marco Gaboardi__
   - Time: 2pm-3pm EST (7pm-8pm UTC)
 <br><br>  
-- 12/03/2021 : TBA 
-  - Time: 1pm-2pm EST (6pm-7pm UTC)
-<br><br>  
 - 19/03/2021 : TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
 - 26/03/2021 : TBA by __Mitchell Riley__
   - Time: 9am-10am EST (2pm-3pm UTC)
 <br><br>  
-- 02/04/2021 : TBA by TBA
+- 02/04/2021 : TBA by __Francesco Gavazzo__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
-- 16/04/2021 : TBA
+- 16/04/2021 : TBA by __Thomas Powell__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
-- 23/04/2021 : TBA
+- 23/04/2021 : TBA by __Ugo Dal Lago__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
 - 30/04/2021 : TBA
