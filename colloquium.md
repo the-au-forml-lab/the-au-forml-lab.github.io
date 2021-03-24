@@ -71,6 +71,6 @@ by __Marco Gaboardi__
 <br><br>  
 - 07/05/2021 : TBA by __Andy Gordon__
   - Time: 9am-10am EST (2pm-3pm UTC)
-
-
-
+<br><br>
+- 07/05/2021 : TBA by __Assia Mahboubi__
+  - Time: 9am-10am EST (2pm-3pm UTC)
