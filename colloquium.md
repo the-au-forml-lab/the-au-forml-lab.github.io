@@ -54,7 +54,7 @@ by __William Byrd__
 by __Marco Gaboardi__
   - Time: 2pm-3pm EST (7pm-8pm UTC)
 <br><br>  
-- 26/03/2021 : TBA by __Mitchell Riley__
+- 26/03/2021 : [Extending Homotopy Type Theory with Linear Type Formers](colloquium_talks/Riley.html) by __Mitchell Riley__
   - Time: 9am-10am EST (2pm-3pm UTC)
 <br><br>  
 - 02/04/2021 : TBA by __Francesco Gavazzo__
@@ -72,5 +72,5 @@ by __Marco Gaboardi__
 - 07/05/2021 : TBA by __Andy Gordon__
   - Time: 9am-10am EST (2pm-3pm UTC)
 <br><br>
-- 07/05/2021 : TBA by __Assia Mahboubi__
+- 14/05/2021 : TBA by __Assia Mahboubi__
   - Time: 9am-10am EST (2pm-3pm UTC)
