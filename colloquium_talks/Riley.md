@@ -7,7 +7,7 @@ Extending Homotopy Type Theory with Linear Type Formers
 ======
 ### by [Mitchell Riley](https://www.wesleyan.edu/academics/grad/mvriley/profile.html)
 
-- When: Friday, 27/03/2021, between 9am and 10am EST (2pm - 3pm UTC)
+- When: Friday, 26/03/2021, between 9am and 10am EST (2pm - 3pm UTC)
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
 - YouTube Stream/Recording: <https://youtu.be/sPxtdCtjSDc>
 
