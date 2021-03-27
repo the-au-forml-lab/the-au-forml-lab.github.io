@@ -57,7 +57,7 @@ by __Marco Gaboardi__
 - 26/03/2021 : [Extending Homotopy Type Theory with Linear Type Formers](colloquium_talks/Riley.html) by __Mitchell Riley__
   - Time: 9am-10am EST (2pm-3pm UTC)
 <br><br>  
-- 02/04/2021 : TBA by __Francesco Gavazzo__
+- 02/04/2021 : [Coinductive Equivalences for Higher-order Coeffectful Languages](colloquium_talks/Gavazzo.html) by __Francesco Gavazzo__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
 - 16/04/2021 : TBA by __Thomas Powell__
