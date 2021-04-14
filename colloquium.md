@@ -60,7 +60,7 @@ by __Marco Gaboardi__
 - 02/04/2021 : [Coinductive Equivalences for Higher-order Coeffectful Languages](colloquium_talks/Gavazzo.html) by __Francesco Gavazzo__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
-- 16/04/2021 : TBA by __Thomas Powell__
+- 16/04/2021 : [Quantitative Tauberian theorems](colloquium_talks/Powell.html) by __Thomas Powell__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
 - 23/04/2021 : TBA by __Ugo Dal Lago__
