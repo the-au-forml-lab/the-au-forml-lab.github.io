@@ -5,7 +5,7 @@ title: Quantitative Tauberian theorems
 
 Quantitative Tauberian theorems
 ======
-### by [Francesco Gavazzo](https://sites.google.com/view/francescogavazzo/about)
+### by [Thomas Powell](https://t-powell.github.io)
 
 - When: Friday, 02/04/2021, between 1pm and 2pm EST (5pm - 6pm UTC)
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
