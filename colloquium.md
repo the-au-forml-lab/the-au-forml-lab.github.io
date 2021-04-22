@@ -63,7 +63,7 @@ by __Marco Gaboardi__
 - 16/04/2021 : [Quantitative Tauberian theorems](colloquium_talks/Powell.html) by __Thomas Powell__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
-- 23/04/2021 : TBA by __Ugo Dal Lago__
+- 23/04/2021 : [On Higher-Order Cryptography](colloquium_talks/DalLago.html) by __Ugo Dal Lago__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
 - 30/04/2021 : TBA by __Jon Sterling__
