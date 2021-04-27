@@ -61,16 +61,16 @@ by __Marco Gaboardi__
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>  
 - 16/04/2021 : [Quantitative Tauberian theorems](colloquium_talks/Powell.html) by __Thomas Powell__
-  - Time: 1pm-2pm EST (6pm-7pm UTC)
+  - Time: 1pm-2pm EDT (6pm-7pm UTC)
 <br><br>  
 - 23/04/2021 : [On Higher-Order Cryptography](colloquium_talks/DalLago.html) by __Ugo Dal Lago__
-  - Time: 1pm-2pm EST (6pm-7pm UTC)
+  - Time: 1pm-2pm EDT (6pm-7pm UTC)
 <br><br>  
-- 30/04/2021 : TBA by __Jon Sterling__
-  - Time: 1pm-2pm EST (6pm-7pm UTC)
-<br><br>  
+- 30/04/2021 : [Logical Relations As Types](colloquium_talks/Sterling.html) by __Jon Sterling__
+  - Time: 1pm-2pm EDT (6pm-7pm UTC)
+  <br><br>  
 - 07/05/2021 : TBA by __Andy Gordon__
-  - Time: 9am-10am EST (2pm-3pm UTC)
+  - Time: 9am-10am EDT (2pm-3pm UTC)
 <br><br>
 - 14/05/2021 : TBA by __Assia Mahboubi__
-  - Time: 9am-10am EST (2pm-3pm UTC)
+  - Time: 9am-10am EDT (2pm-3pm UTC)
