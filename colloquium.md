@@ -69,8 +69,8 @@ by __Marco Gaboardi__
 - 30/04/2021 : [Logical Relations As Types](colloquium_talks/Sterling.html) by __Jon Sterling__
   - Time: 1pm-2pm EDT (6pm-7pm UTC)
   <br><br>  
-- 07/05/2021 : TBA by __Andy Gordon__
-  - Time: 9am-10am EDT (2pm-3pm UTC)
+- 07/05/2021 : [Excel meets Lambda](colloquium_talks/Gordon.html) by __Andy Gordon__
+  - Time: 9am-10am EDT (1pm-2pm UTC)
 <br><br>
 - 14/05/2021 : TBA by __Assia Mahboubi__
-  - Time: 9am-10am EDT (2pm-3pm UTC)
+  - Time: 9am-10am EDT (1pm-2pm UTC)
