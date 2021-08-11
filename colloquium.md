@@ -46,8 +46,8 @@ by TBA
 by TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
-- 10/09/2021 : TBA
-by TBA
+- 10/09/2021 : **Linear types for GUI programming**
+by Neel Krishnaswami
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
 - 17/09/2021 : TBA
