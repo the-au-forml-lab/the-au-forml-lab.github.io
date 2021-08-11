@@ -43,7 +43,7 @@ by TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
 - 03/09/2021 : TBA
-by TBA
+by Stephanie Balzer
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
 - 10/09/2021 : **Linear types for GUI programming**
