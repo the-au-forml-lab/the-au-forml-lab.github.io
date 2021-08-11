@@ -28,7 +28,7 @@ Harley Eades an <a href="mailto:harley.eades@gmail.com">email</a>.
 
 #### Videos
 
-All of the talks are recorded and posted this Youtube [playlist](https://youtube.com/playlist?list=PLTq59cBPOhWJbgRHkTpzMQgzv9IygtdKg ) 
+All of the talks are recorded and posted this [Youtube](https://www.youtube.com/channel/UCk3G8P4NMeIdj1roMoCEi0Q/videos)
 
 #### Past Editions
 
