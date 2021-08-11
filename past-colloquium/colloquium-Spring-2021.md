@@ -3,7 +3,7 @@ layout: page
 title: CCS Colloquium
 ---
 
-CCS Colloquium
+Spring 2021: CCS Colloquium
 --------------
 -------------------
 
@@ -29,11 +29,6 @@ Harley Eades an <a href="mailto:harley.eades@gmail.com">email</a>.
 #### Videos
 
 All of the talks are recorded and posted this Youtube [playlist](https://youtube.com/playlist?list=PLTq59cBPOhWJbgRHkTpzMQgzv9IygtdKg ) 
-
-#### Past Editions
-
-- [Fall 2020](/past-colloquium/colloquium-Fall-2020.html) 
-
 
 #### Schedule
   

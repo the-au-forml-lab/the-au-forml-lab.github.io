@@ -32,7 +32,7 @@ All of the talks are recorded and posted this Youtube [playlist](https://youtube
 
 #### Past Editions
 
-- [Spring 2021](/past-colloquium/colloquium-Fall-2021.html) 
+- [Spring 2021](/past-colloquium/colloquium-Spring-2021.html) 
 - [Fall 2020](/past-colloquium/colloquium-Fall-2020.html) 
 
 
