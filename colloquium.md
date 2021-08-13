@@ -82,10 +82,6 @@ by TBA
 by TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
-- 05/11/2021 : TBA
-by TBA
-  - Time: 1pm-2pm EST (6pm-7pm UTC)
-<br><br>
 - 12/11/2021 : TBA
 by TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
@@ -93,4 +89,11 @@ by TBA
 - 19/11/2021 : TBA
 by TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
-
+<br><br>
+- 26/11/2021 : TBA
+by TBA
+  - Time: 1pm-2pm EST (6pm-7pm UTC)
+<br><br>
+- 03/12/2021 : [Ross Horne](https://satoss.uni.lu/members/ross/)
+by TBA
+  - Time: 1pm-2pm EST (6pm-7pm UTC)
