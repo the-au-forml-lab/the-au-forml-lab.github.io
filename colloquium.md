@@ -78,8 +78,8 @@ by TBA
 by TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
-- 05/11/2021 : TBA
-by TBA
+- 05/11/2021 : **Tight Polynomial Worst-Case Bounds for Loop Programs**
+by [Geoff Hamilton](https://www.computing.dcu.ie/~hamilton/)
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
 - 12/11/2021 : TBA
@@ -94,6 +94,6 @@ by TBA
 by TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
-- 03/12/2021 : [Ross Horne](https://satoss.uni.lu/members/ross/)
-by TBA
+- 03/12/2021 : TBA
+by [Ross Horne](https://satoss.uni.lu/members/ross/)
   - Time: 1pm-2pm EST (6pm-7pm UTC)
