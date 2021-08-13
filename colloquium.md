@@ -43,11 +43,11 @@ by TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
 - 03/09/2021 : TBA
-by Stephanie Balzer
+by [Stephanie Balzer](https://www.cs.cmu.edu/~balzers/)
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
 - 10/09/2021 : **Linear types for GUI programming**
-by Neel Krishnaswami
+by [Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/)
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
 - 17/09/2021 : TBA
