@@ -75,7 +75,7 @@ by TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
 - 29/10/2021 : TBA
-by TBA
+by [Isabel Oitavem](https://docentes.fct.unl.pt/ifr/)
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
 - 05/11/2021 : **Tight Polynomial Worst-Case Bounds for Loop Programs**
