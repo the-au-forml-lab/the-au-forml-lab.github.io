@@ -55,8 +55,8 @@ by TBA
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
 - 24/09/2021 : TBA
-by TBA
-  - Time: 1pm-2pm EST (6pm-7pm UTC)
+by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
+  - Time: ⚠️ 9am-10am EST (2-3pm UTC) ⚠️
 <br><br>
 - 01/10/2021 : TBA
 by TBA
