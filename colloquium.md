@@ -38,10 +38,6 @@ All of the talks are recorded and posted on [Youtube](https://www.youtube.com/ch
 
 #### Schedule
   
-- 27/08/2021 : TBA
-by TBA
-  - Time: 1pm-2pm EST (6pm-7pm UTC)
-<br><br>
 - 03/09/2021 : [Session Logical Relations for Noninterference](colloquium_talks/Balzer.html)
 by [Stephanie Balzer](https://www.cs.cmu.edu/~balzers/)
   - Time: 1pm-2pm EST (6pm-7pm UTC)
