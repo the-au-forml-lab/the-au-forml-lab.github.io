@@ -7,9 +7,9 @@ Session Logical Relations for Noninterference
 ======
 ### by Dr. Stephanie Balzer
 
-- When: Friday, 9/3/2021, between 1pm and 2pm, EST
+- When: Friday, 9/3/2021, between 1pm and 2pm (5pm-6pm UTC), EST
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Stream/Recording: <>
+- YouTube Stream/Recording: <https://youtu.be/lJpK9CIgT30>
 
 #### Abstract
 
