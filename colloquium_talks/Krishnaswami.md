@@ -7,7 +7,7 @@ Adjoint Reactive GUI Programming
 ======
 ### by Dr. Neel Krishnaswami
 
-- When: Friday, 10/9/2021, between 1pm and 2pm (6pm-7pm UTC), EST
+- When: Friday, 10/9/2021, between 1pm and 2pm (5pm-6pm UTC), EST
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
 - YouTube Stream/Recording: <https://youtu.be/Jp5DsOXs6fE>
 
