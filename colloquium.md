@@ -39,56 +39,55 @@ All of the talks are recorded and posted on [Youtube](https://www.youtube.com/ch
   
 - 03/09/2021 : [Session Logical Relations for Noninterference](colloquium_talks/Balzer.html)
 by [Stephanie Balzer](https://www.cs.cmu.edu/~balzers/)
-  - Time: 1pm-2pm EST (5pm-6pm UTC)
+  - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 10/09/2021 : [Adjoint Reactive GUI programming](colloquium_talks/Krishnaswami.html)
 by [Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/)
-  - Time: 1pm-2pm EST (5pm-6pm UTC)
+  - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 17/09/2021 : TBA
-by TBA
-  - Time: 1pm-2pm EST (5pm-6pm UTC)
+- 17/09/2021 : [SCCS Lightening Talks](colloquium_talks/Flyer_Lightning_Talks_Sep17_v1.pdf)
+  - Time: 12pm-12:30pm EDT (4pm-4:30pm UTC)
 <br><br>
 - 24/09/2021 : TBA
 by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
-  - Time: ⚠️ 9am-10am EST (2-3pm UTC) ⚠️
+  - Time: ⚠ 9am-10am EDT (2-3pm UTC) ⚠️
 <br><br>
 - 01/10/2021 : TBA
 by TBA
-  - Time: 1pm-2pm EST (5pm-6pm UTC)
+  - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 08/10/2021 : TBA
 by TBA
-  - Time: 1pm-2pm EST (5pm-6pm UTC)
+  - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 15/10/2021 : TBA
 by TBA
-  - Time: 1pm-2pm EST (5pm-6pm UTC)
+  - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 22/10/2021 : TBA
 by TBA
-  - Time: 1pm-2pm EST (5pm-6pm UTC)
+  - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 29/10/2021 : TBA
 by [Isabel Oitavem](https://docentes.fct.unl.pt/ifr/)
-  - Time: 1pm-2pm EST (5pm-6pm UTC)
+  - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 05/11/2021 : **Tight Polynomial Worst-Case Bounds for Loop Programs**
 by [Geoff Hamilton](https://www.computing.dcu.ie/~hamilton/)
-  - Time: 1pm-2pm EST (5pm-6pm UTC)
+  - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 12/11/2021 : TBA
 by TBA
-  - Time: 1pm-2pm EST (5pm-6pm UTC)
+  - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 19/11/2021 : TBA
 by TBA
-  - Time: 1pm-2pm EST (5pm-6pm UTC)
+  - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 26/11/2021 : TBA
 by TBA
-  - Time: 1pm-2pm EST (5pm-6pm UTC)
+  - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 03/12/2021 : TBA
 by [Ross Horne](https://satoss.uni.lu/members/ross/)
-  - Time: 1pm-2pm EST (5pm-6pm UTC)
+  - Time: 1pm-2pm EDT (5pm-6pm UTC)
