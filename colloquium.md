@@ -48,7 +48,7 @@ by [Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/)
 - 17/09/2021 : [SCCS Lightening Talks](colloquium_talks/Flyer_Lightning_Talks_Sep17_v1.pdf)
   - Time: 12pm-12:30pm EDT (4pm-4:30pm UTC)
 <br><br>
-- 24/09/2021 : TBA
+- 24/09/2021 : [On Turing machines with syntactic restrictions](colloquium_talks/Nakano.html)
 by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
   - Time: ⚠ 9am-10am EDT (2-3pm UTC) ⚠️
 <br><br>
