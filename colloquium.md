@@ -52,14 +52,14 @@ by [Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/)
 by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
   - Time: ⚠ 9am-10am EDT (2-3pm UTC) ⚠️
 <br><br>
-- 01/10/2021 : Lightning Talk Series
+- 01/10/2021 : SCCS Lightning Talk Series
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 08/10/2021 : TBA
 by TBA
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 15/10/2021 : Lightning Talk Series
+- 15/10/2021 : SCCS Lightning Talk Series
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 22/10/2021 : TBA
@@ -74,14 +74,14 @@ by [Isabel Oitavem](https://docentes.fct.unl.pt/ifr/)
 by [Geoff Hamilton](https://www.computing.dcu.ie/~hamilton/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 12/11/2021 : Lightning Talk Series
+- 12/11/2021 : SCCS Lightning Talk Series
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 19/11/2021 : TBA
 by TBA
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 26/11/2021 : TLightning Talk Series
+- 26/11/2021 : SCCS Lightning Talk Series
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 03/12/2021 : TBA
