@@ -52,7 +52,7 @@ by [Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/)
 by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
   - Time: ⚠ 9am-10am EDT (2-3pm UTC) ⚠️
 <br><br>
-- 01/10/2021 : SCCS Lightning Talk Series
+- 01/10/2021 : [SCCS Lightning Talk Series](colloquium_talks/Lightning-Talks-100121.html)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 08/10/2021 : TBA
