@@ -45,7 +45,7 @@ by [Stephanie Balzer](https://www.cs.cmu.edu/~balzers/)
 by [Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 17/09/2021 : [SCCS Lightening Talks](colloquium_talks/Flyer_Lightning_Talks_Sep17_v1.pdf)
+- 17/09/2021 : [SCCS Lightening Talks](colloquium_talks/Lightning-Talks-091721.html)
   - Time: 12pm-12:30pm EDT (4pm-4:30pm UTC)
 <br><br>
 - 24/09/2021 : [On Turing machines with syntactic restrictions](colloquium_talks/Nakano.html)
