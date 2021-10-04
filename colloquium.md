@@ -55,10 +55,6 @@ by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
 - 01/10/2021 : [SCCS Lightning Talk Series](colloquium_talks/Lightning-Talks-100121.html)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 08/10/2021 : TBA
-by TBA
-  - Time: 1pm-2pm EDT (5pm-6pm UTC)
-<br><br>
 - 15/10/2021 : SCCS Lightning Talk Series
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
