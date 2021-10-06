@@ -77,9 +77,6 @@ by [Geoff Hamilton](https://www.computing.dcu.ie/~hamilton/)
 by TBA
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 26/11/2021 : SCCS Lightning Talk Series
-  - Time: 1pm-2pm EDT (5pm-6pm UTC)
-<br><br>
 - 03/12/2021 : TBA
 by [Ross Horne](https://satoss.uni.lu/members/ross/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
