@@ -58,7 +58,7 @@ by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
 - 15/10/2021 : [SCCS Lightning Talk Series](colloquium_talks/Lightning-Talks-101521.html)
   - Time: 2:30pm-3:30pm EDT (6:30pm-7:30pm UTC)
 <br><br>
-- 22/11/2021 : [On Turing machines with syntactic restrictions](colloquium_talks/Nakano.html)
+- 22/10/2021 : [On Turing machines with syntactic restrictions](colloquium_talks/Nakano.html)
 by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
   - Time: ⚠ 9am-10am EDT (2-3pm UTC) ⚠️
 <br><br> 
