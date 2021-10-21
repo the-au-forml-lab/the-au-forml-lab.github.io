@@ -7,7 +7,7 @@ On Turing machines with syntactic restrictions
 ======
 ### by Dr. Keisuke Nakano
 
-- When: Friday, 24/9/2021, between 9am and 10am EDT (1pm-2pm UTC)
+- When: Friday, 22/10/2021, between 9am and 10am EDT (1pm-2pm UTC)
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
 - YouTube Stream/Recording: <https://youtu.be/lCJ2Kq4heTI>
 
