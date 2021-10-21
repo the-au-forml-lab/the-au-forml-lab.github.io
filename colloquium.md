@@ -58,6 +58,10 @@ by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
 - 15/10/2021 : [SCCS Lightning Talk Series](colloquium_talks/Lightning-Talks-101521.html)
   - Time: 2:30pm-3:30pm EDT (6:30pm-7:30pm UTC)
 <br><br>
+- 22/11/2021 : [On Turing machines with syntactic restrictions](colloquium_talks/Nakano.html)
+by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
+  - Time: ⚠ 9am-10am EDT (2-3pm UTC) ⚠️
+<br><br> 
 - 29/10/2021 : TBA
 by [Isabel Oitavem](https://docentes.fct.unl.pt/ifr/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
@@ -69,10 +73,6 @@ by [Geoff Hamilton](https://www.computing.dcu.ie/~hamilton/)
 - 12/11/2021 : SCCS Lightning Talk Series
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 22/11/2021 : [On Turing machines with syntactic restrictions](colloquium_talks/Nakano.html)
-by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
-  - Time: ⚠ 9am-10am EDT (2-3pm UTC) ⚠️
-<br><br>  
 - 15/11/2021 : **Distinguished Speaker Series**
 by [Dr. Kim-Kwang Raymond Choo](https://sites.google.com/site/raymondchooau/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
