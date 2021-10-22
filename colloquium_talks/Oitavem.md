@@ -9,7 +9,7 @@ P, NP, and Pspace without machine models
 
 - When: Friday, 29/10/2021, between 1pm and 2pm EDT (5pm-6pm UTC)
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- YouTube Stream/Recording: 
+- YouTube Stream/Recording: <https://youtu.be/NJRnYQkv9jc>
 
 #### Abstract
 
