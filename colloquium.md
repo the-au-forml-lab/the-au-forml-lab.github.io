@@ -77,8 +77,7 @@ by [Geoff Hamilton](https://www.computing.dcu.ie/~hamilton/)
 by [Dr. Kim-Kwang Raymond Choo](https://sites.google.com/site/raymondchooau/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 19/11/2021 : **ML for Computer Scientists using Mathematica**
-by [David Stevens and Santiago C](https://www.wolfram.com/mathematica/)
+- 19/11/2021 : TBA by [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 03/12/2021 : TBA
