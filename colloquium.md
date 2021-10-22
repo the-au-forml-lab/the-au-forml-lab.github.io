@@ -62,7 +62,7 @@ by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
 by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
   - Time: ⚠ 9am-10am EDT (2-3pm UTC) ⚠️
 <br><br> 
-- 29/10/2021 : TBA
+- 29/10/2021 : [P, NP, and Pspace without machine models](colloquium_talks/Oitavem.html)
 by [Isabel Oitavem](https://docentes.fct.unl.pt/ifr/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
