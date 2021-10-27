@@ -70,14 +70,11 @@ by [Isabel Oitavem](https://docentes.fct.unl.pt/ifr/)
 by [Geoff Hamilton](https://www.computing.dcu.ie/~hamilton/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 12/11/2021 : SCCS Lightning Talk Series
+- 12/11/2021 : TBA by [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 15/11/2021 : **Distinguished Speaker Series**
 by [Dr. Kim-Kwang Raymond Choo](https://sites.google.com/site/raymondchooau/)
-  - Time: 1pm-2pm EDT (5pm-6pm UTC)
-<br><br>
-- 19/11/2021 : TBA by [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 03/12/2021 : TBA
