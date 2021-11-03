@@ -32,6 +32,7 @@ All of the talks are recorded and posted on [Youtube](https://www.youtube.com/ch
 
 #### Past Editions
 
+- [Fall 2021](/past-colloquium/colloquium-Fall-2021.html) 
 - [Spring 2021](/past-colloquium/colloquium-Spring-2021.html) 
 - [Fall 2020](/past-colloquium/colloquium-Fall-2020.html) 
 
