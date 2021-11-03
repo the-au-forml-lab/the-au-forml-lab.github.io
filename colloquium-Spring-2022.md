@@ -1,4 +1,4 @@
-B---
+---
 layout: page
 title: CCS Colloquium
 ---
