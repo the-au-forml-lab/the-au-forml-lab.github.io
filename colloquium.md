@@ -66,7 +66,7 @@ by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
 by [Isabel Oitavem](https://docentes.fct.unl.pt/ifr/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 05/11/2021 : **Tight Polynomial Worst-Case Bounds for Loop Programs**
+- 05/11/2021 : [Tight Polynomial Worst-Case Bounds for Loop Programs](colloquium_talks/Hamilton.html)
 by [Geoff Hamilton](https://www.computing.dcu.ie/~hamilton/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
