@@ -9,6 +9,7 @@ Tight Polynomial Worst-Case Bounds for Loop Programs
 
 - When: Friday, 05/11/2021, between 1pm and 2pm EDT (5pm-6pm UTC)
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
+- Stream/Recording: <https://youtu.be/l8NT3ReVUu4>
 
 #### Abstract
 
