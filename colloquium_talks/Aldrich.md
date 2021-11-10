@@ -9,7 +9,7 @@ Integrating Usability into Programming Language Design
 
 - When: Friday, 12/11/2021, between 1pm and 2pm EST (6pm-7pm UTC)
 - Where: Zoom; Outside guests please RSVP by emailing <a href="mailto:harley.eades@gmail.com">Harley Eades</a>
-- Stream/Recording: <>
+- Stream/Recording: <https://youtu.be/38qBwZGUMMs>
 
 #### Abstract
 
