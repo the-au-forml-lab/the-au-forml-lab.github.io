@@ -70,13 +70,13 @@ by [Isabel Oitavem](https://docentes.fct.unl.pt/ifr/)
 by [Geoff Hamilton](https://www.computing.dcu.ie/~hamilton/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 12/11/2021 : TBA by [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/)
-  - Time: 1pm-2pm EDT (5pm-6pm UTC)
+- 12/11/2021 : [Integrating Usability into Programming Language Design](colloquium_talks/Aldrich.html) by [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/)
+  - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
 - 15/11/2021 : **Distinguished Speaker Series**
 by [Dr. Kim-Kwang Raymond Choo](https://sites.google.com/site/raymondchooau/)
-  - Time: 1pm-2pm EDT (5pm-6pm UTC)
+  - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
 - 03/12/2021 : TBA
 by [Ross Horne](https://satoss.uni.lu/members/ross/)
-  - Time: 1pm-2pm EDT (5pm-6pm UTC)
+  - Time: 1pm-2pm EST (6pm-7pm UTC)
