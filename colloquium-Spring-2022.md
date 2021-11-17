@@ -44,7 +44,7 @@ All of the talks are recorded and posted on [Youtube](https://www.youtube.com/ch
 - 28/01/2022 : TBA
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 04/02/2022 : TBA
+- 04/02/2022 : TBA by [Adrian Francalanza](https://staff.um.edu.mt/afra1/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 11/02/2022 : TBA
