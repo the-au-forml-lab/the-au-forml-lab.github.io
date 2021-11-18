@@ -77,6 +77,10 @@ by [Geoff Hamilton](https://www.computing.dcu.ie/~hamilton/)
 by [Dr. Kim-Kwang Raymond Choo](https://sites.google.com/site/raymondchooau/)
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
+- 29/11/2021 : **Distinguished Speaker Series**
+by [Dr. Scott A. Smolka](https://www.cs.stonybrook.edu/people/faculty/ScottSmolka)
+  - Time: 1pm-2pm EST (6pm-7pm UTC)
+<br><br>
 - 03/12/2021 : TBA
 by [Ross Horne](https://satoss.uni.lu/members/ross/)
   - Time: 1pm-2pm EST (6pm-7pm UTC)
