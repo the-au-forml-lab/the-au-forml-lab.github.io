@@ -81,6 +81,6 @@ by [Dr. Kim-Kwang Raymond Choo](https://sites.google.com/site/raymondchooau/)
 by [Dr. Scott A. Smolka](https://www.cs.stonybrook.edu/people/faculty/ScottSmolka)
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
-- 03/12/2021 : TBA
+- 03/12/2021 : [Discovering Vulnerabilities in ePassports using Bisimilarity](colloquium_talks/Ross.html)
 by [Ross Horne](https://satoss.uni.lu/members/ross/)
   - Time: 1pm-2pm EST (6pm-7pm UTC)
