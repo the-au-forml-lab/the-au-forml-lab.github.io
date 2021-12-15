@@ -37,7 +37,8 @@ All of the talks are recorded and posted on [Youtube](https://www.youtube.com/ch
 - [Fall 2020](/past-colloquium/colloquium-Fall-2020.html) 
 
 #### Schedule
-  
+
+<!--
 - 21/01/2022 : TBA
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
@@ -47,7 +48,7 @@ All of the talks are recorded and posted on [Youtube](https://www.youtube.com/ch
 - 04/02/2022 : TBA
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 11/02/2022 : TBA  by [Adrian Francalanza](https://staff.um.edu.mt/afra1/)
+- 11/02/2022 : TBA 
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 18/02/2022 : TBA
@@ -59,15 +60,19 @@ All of the talks are recorded and posted on [Youtube](https://www.youtube.com/ch
 - 04/03/2022 : TBA
   - Time: 1pm-2pm EDT (5pm-6pm UTC)️
 <br><br> 
-- 18/03/2022 : TBA
+-->
+- 18/03/2022 : TBA by [Adrian Francalanza](https://staff.um.edu.mt/afra1/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
+<!--
 - 25/03/2022 : TBA
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
+-->
 - 01/04/2022 : TBA  by [Armaël Guéneau](http://gallium.inria.fr/~agueneau/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
-<br><br>
+<!--
+  <br><br>
 - 15/04/2022 : TBA
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
-
+-->
