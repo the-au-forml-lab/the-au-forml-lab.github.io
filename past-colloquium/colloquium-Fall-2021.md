@@ -37,40 +37,40 @@ All of the talks are recorded and posted on [Youtube](https://www.youtube.com/ch
 
 #### Schedule
   
-- 03/09/2021 : [Session Logical Relations for Noninterference](colloquium_talks/Balzer.html)
+- 03/09/2021 : [Session Logical Relations for Noninterference](../colloquium_talks/Balzer.html)
 by [Stephanie Balzer](https://www.cs.cmu.edu/~balzers/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 10/09/2021 : [Adjoint Reactive GUI programming](colloquium_talks/Krishnaswami.html)
+- 10/09/2021 : [Adjoint Reactive GUI programming](../colloquium_talks/Krishnaswami.html)
 by [Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 17/09/2021 : [SCCS Lightening Talks](colloquium_talks/Lightning-Talks-091721.html)
+- 17/09/2021 : [SCCS Lightening Talks](../colloquium_talks/Lightning-Talks-091721.html)
   - Time: 12pm-12:30pm EDT (4pm-4:30pm UTC)
 <br><br>
-- 24/09/2021 : [On Turing machines with syntactic restrictions](colloquium_talks/Nakano.html)
+- 24/09/2021 : [On Turing machines with syntactic restrictions](../colloquium_talks/Nakano.html)
 by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
   - Time: ⚠ 9am-10am EDT (2-3pm UTC) ⚠️
 <br><br>
-- 01/10/2021 : [SCCS Lightning Talk Series](colloquium_talks/Lightning-Talks-100121.html)
+- 01/10/2021 : [SCCS Lightning Talk Series](../colloquium_talks/Lightning-Talks-100121.html)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 15/10/2021 : [SCCS Lightning Talk Series](colloquium_talks/Lightning-Talks-101521.html)
+- 15/10/2021 : [SCCS Lightning Talk Series](../colloquium_talks/Lightning-Talks-101521.html)
   - Time: 2:30pm-3:30pm EDT (6:30pm-7:30pm UTC)
 <br><br>
-- 22/10/2021 : [On Turing machines with syntactic restrictions](colloquium_talks/Nakano.html)
+- 22/10/2021 : [On Turing machines with syntactic restrictions](../colloquium_talks/Nakano.html)
 by [Keisuke Nakano](https://www.riec.tohoku.ac.jp/~ksk/)
   - Time: ⚠ 9am-10am EDT (2-3pm UTC) ⚠️
 <br><br> 
-- 29/10/2021 : [P, NP, and Pspace without machine models](colloquium_talks/Oitavem.html)
+- 29/10/2021 : [P, NP, and Pspace without machine models](../colloquium_talks/Oitavem.html)
 by [Isabel Oitavem](https://docentes.fct.unl.pt/ifr/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 05/11/2021 : [Tight Polynomial Worst-Case Bounds for Loop Programs](colloquium_talks/Hamilton.html)
+- 05/11/2021 : [Tight Polynomial Worst-Case Bounds for Loop Programs](../colloquium_talks/Hamilton.html)
 by [Geoff Hamilton](https://www.computing.dcu.ie/~hamilton/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
-- 12/11/2021 : [Integrating Usability into Programming Language Design](colloquium_talks/Aldrich.html) by [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/)
+- 12/11/2021 : [Integrating Usability into Programming Language Design](../colloquium_talks/Aldrich.html) by [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/)
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
 - 15/11/2021 : **Distinguished Speaker Series**
@@ -81,6 +81,6 @@ by [Dr. Kim-Kwang Raymond Choo](https://sites.google.com/site/raymondchooau/)
 by [Dr. Scott A. Smolka](https://www.cs.stonybrook.edu/people/faculty/ScottSmolka)
   - Time: 1pm-2pm EST (6pm-7pm UTC)
 <br><br>
-- 03/12/2021 : [Discovering Vulnerabilities in ePassports using Bisimilarity](colloquium_talks/Ross.html)
+- 03/12/2021 : [Discovering Vulnerabilities in ePassports using Bisimilarity](../colloquium_talks/Ross.html)
 by [Ross Horne](https://satoss.uni.lu/members/ross/)
   - Time: 1pm-2pm EST (6pm-7pm UTC)
