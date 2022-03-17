@@ -28,7 +28,7 @@ Harley Eades an <a href="mailto:harley.eades@gmail.com">email</a>.
 
 #### Videos
 
-All of the talks are recorded and posted on [Youtube](https://www.youtube.com/channel/UCk3G8P4NMeIdj1roMoCEi0Q/videos)
+All of the talks are recorded and posted on [Youtube](https://www.youtube.com/channel/UCk3G8P4NMeIdj1roMoCEi0Q/videos) or on the corresponding page for the Lightning Talk Series (browse the past editions below).
 
 #### Past Editions
 
@@ -38,7 +38,9 @@ All of the talks are recorded and posted on [Youtube](https://www.youtube.com/ch
 
 #### Schedule
 
-Unfortunately, there is no colloquiom this Spring 2022.
+Unfortunately, there is no colloquium this Spring 2022.
+
+The Lightning Talk Series, however, will periodically take place during Spring 2022: please reach out to [Dr. Gokila Dorai](https://web2.augusta.edu/faculty/directory/view.php?id=GDORAI) if you are interested.
 
 <!--
 - 21/01/2022 : TBA
