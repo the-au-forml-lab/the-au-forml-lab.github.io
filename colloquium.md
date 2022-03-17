@@ -38,6 +38,8 @@ All of the talks are recorded and posted on [Youtube](https://www.youtube.com/ch
 
 #### Schedule
 
+Unfortunately, there is no colloquiom this Spring 2022.
+
 <!--
 - 21/01/2022 : TBA
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
@@ -61,12 +63,13 @@ All of the talks are recorded and posted on [Youtube](https://www.youtube.com/ch
   - Time: 1pm-2pm EDT (5pm-6pm UTC)️
 <br><br> 
 -->
+<!--
 - 18/03/2022 : TBA by [Adrian Francalanza](https://staff.um.edu.mt/afra1/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
 <br><br>
 - 01/04/2022 : TBA  by [Armaël Guéneau](http://gallium.inria.fr/~agueneau/)
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
-
+-->
 <!--
 - 25/03/2022 : TBA
   - Time: 1pm-2pm EDT (5pm-6pm UTC)
