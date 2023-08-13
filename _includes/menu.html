@@ -1,5 +1,5 @@
-<a class="nav-link" href="{{ "index.html" | absolute_url }}">Home</a>
-<a class="nav-link" href="{{ "research.html" | absolute_url }}">Research</a>
-<a class="nav-link" href="{{ "people.html" | absolute_url }}">People</a>
-<a class="nav-link" href="{{ "colloquium.html" | absolute_url }}">CCS Colloquium</a>
-<a class="nav-link" href="{{ "plgroup/" | absolute_url }}">Reading Group</a>
+<a class="nav-link" href="{{ "index.html" | relative_url | replace: site.baseurl, "" }}">Home</a>
+<a class="nav-link" href="{{ "research.html" | relative_url | replace: site.baseurl, "" }}">Research</a>
+<a class="nav-link" href="{{ "people.html" | relative_url | replace: site.baseurl, "" }}">People</a>
+<a class="nav-link" href="{{ "colloquium.html" | relative_url | replace: site.baseurl, "" }}">CCS Colloquium</a>
+<a class="nav-link" href="{{ site.baseurl |  replace: "/plgroup", "" }}/plgroup/">Reading Group</a>
