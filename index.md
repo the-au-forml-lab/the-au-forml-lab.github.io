@@ -17,7 +17,7 @@ proving, categorical logic, reversible computing, program optimization,
 program analysis and secure programming.
 
 The ForML Lab organized the first [Southeast Regional Programming Languages Seminar
-](https://the-au-forml-lab.github.io/SERPL2019/) at the [Georgia Cyber Center
+](https://the-au-forml-lab.github.io/SERPL/) at the [Georgia Cyber Center
 (GCC)](https://cybercenter.georgia.gov/), and invites you to join us at the School's
 [Computer Science Colloquium ](https://the-au-forml-lab.github.io/colloquium.html).
 
